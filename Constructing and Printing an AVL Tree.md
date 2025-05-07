@@ -23,7 +23,7 @@ To write a Python program to construct an **AVL tree** and print the nodes of it
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 ```python
 from TreeAVL.AVL import AVL
 
@@ -37,12 +37,12 @@ def Construct_AVL(L):
 
 ```
 
-## OUTPUT
+## OUTPUT:
 
 
 ![image](https://github.com/user-attachments/assets/d5936747-897e-48e2-8411-95adef383905)
 
 
-## RESULT
+## RESULT:
 
 Thus the Python program to construct an **AVL tree** and print the nodes of it using the appropriate packages and built-in function was executed successfully.
