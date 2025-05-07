@@ -37,7 +37,7 @@ To write a Python function `def leftRotate(self, z):` to perform the left rotati
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 class TreeNode(object):
@@ -137,11 +137,11 @@ myTree.preOrder(root)
 print()
 ```
 
-## OUTPUT
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/24e285b3-7544-4f02-9495-9cdcecc6eef1)
 
 
-## RESULT
+## RESULT:
 
 Thus the Python function `def leftRotate(self, z):` to perform the left rotation operation in an AVL Tree and insert the element '7' into it was executed successfully.
