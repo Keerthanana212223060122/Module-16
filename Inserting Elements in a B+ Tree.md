@@ -32,7 +32,7 @@ To write a Python function `def insert(self, key, value):` to insert elements in
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 class Node(object):
@@ -195,11 +195,11 @@ if __name__ == '__main__':
     demo_bplustree()
 ```
 
-## OUTPUT
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/871660d3-77c5-40b8-bff5-ea0d4511d45a)
 
 
-## RESULT
+## RESULT:
 
 Thus the Python function `def insert(self, key, value):` to insert elements into a **B+ Tree** was written and executed successfully.
