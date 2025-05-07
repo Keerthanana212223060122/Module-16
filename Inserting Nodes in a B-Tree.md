@@ -31,7 +31,7 @@ To write a Python function `def insert(self, k):` to insert the nodes in a **B-T
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 # Searching a key on a B-tree in Python
@@ -120,12 +120,12 @@ print("\nB Tree after insertion")
 B.print_tree(B.root)
 ```
 
-## OUTPUT
+## OUTPUT:
 
 
 ![image](https://github.com/user-attachments/assets/0cc1b559-a31b-4cf3-8bee-bab6be0d1c0c)
 
 
-## RESULT
+## RESULT:
 
 Thus the Python function `def insert(self, k):` to insert the nodes in a **B-Tree** was written and executed successfully.
