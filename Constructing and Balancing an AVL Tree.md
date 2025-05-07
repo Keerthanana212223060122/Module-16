@@ -25,7 +25,7 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 ```python
 from TreeAVL.AVL import AVL
 
@@ -39,13 +39,13 @@ def Construct_AVL(L):
   print("AVL Tree After Balancing\n",getDictTree(tree))
 ```
 
-## OUTPUT
+## OUTPUT:
 
 
 ![image](https://github.com/user-attachments/assets/f5cb45d9-499c-4d3a-8034-5b38ef1496d3)
 
 
-## RESULT
+## RESULT:
 
 Thus the Python program to construct an **AVL tree**, balance it, and print the nodes **before and after balancing** using the appropriate packages and built-in function was successfully executed.
 
